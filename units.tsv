@@ -1,0 +1,19 @@
+sample	unit	fq1	fq2
+CLFT001	rep1	fastq/SRR5988746_1.fastq.gz	
+CLFT001	rep2	fastq/SRR5988747_1.fastq.gz	
+CLFT001	rep3	fastq/SRR5988750_1.fastq.gz	
+CLFT023	rep1	fastq/SRR5988754_1.fastq.gz	
+CLFT023	rep2	fastq/SRR5988757_1.fastq.gz	
+CLFT023	rep3	fastq/SRR5988751_1.fastq.gz	
+CLFT026	rep1	fastq/SRR5988755_1.fastq.gz	
+CLFT026	rep2	fastq/SRR5988758_1.fastq.gz	
+CLFT026	rep3	fastq/SRR5988752_1.fastq.gz	
+CLFT044	rep1	fastq/SRR5988753_1.fastq.gz	
+CLFT044	rep2	fastq/SRR5988742_1.fastq.gz	
+CLFT044	rep3	fastq/SRR5988743_1.fastq.gz	
+JEL410	rep1	fastq/SRR5988744_1.fastq.gz	
+JEL410	rep2	fastq/SRR5988745_1.fastq.gz	
+JEL410	rep3	fastq/SRR5988759_1.fastq.gz	
+JEL422	rep1	fastq/SRR5988756_1.fastq.gz	
+JEL422	rep2	fastq/SRR5988748_1.fastq.gz	
+JEL422	rep3	fastq/SRR5988749_1.fastq.gz	

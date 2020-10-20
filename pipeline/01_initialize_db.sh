@@ -12,5 +12,5 @@ module load kallisto
 kallisto index -i genome/JEL423_transcripts.idx genome/JEL423_transcripts.fasta -k 27
 
 # if on the cluster - this is a copy from the cluster
-mkdir -p input
-rsync -a /bigdata/stajichlab/shared/projects/Chytrid/BdVirus/RNAseq_Bd_infected/snakemake_rnaseq_STAR/fastq/*.gz input/
+mkdir -p fastq
+rsync -a /bigdata/stajichlab/shared/projects/Chytrid/BdVirus/RNAseq_Bd_infected/snakemake_rnaseq_STAR/fastq/*.gz fastq/
